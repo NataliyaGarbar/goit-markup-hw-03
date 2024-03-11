@@ -291,6 +291,9 @@ address {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+}
+
+.portfolio-list-item {
   width: calc((100%-48px) / 3);
 }
 
