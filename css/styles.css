@@ -149,8 +149,9 @@ address {
   text-align: center;
   color: #fff;
   max-width: 496px;
-
   margin-bottom: 48px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .hero-btn {
@@ -166,6 +167,7 @@ address {
   min-width: 169px;
   height: 56px;
   border: none;
+  margin: 0 auto;
 }
 
 .hero-btn:hover,
@@ -240,7 +242,6 @@ address {
 }
 
 .team-image {
-  margin-bottom: 32px;
 }
 
 .team-card {
